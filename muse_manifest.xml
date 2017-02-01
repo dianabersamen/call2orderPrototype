@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dianabersamen.com" resolutions="1x" timestamp="1485884329940">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="254374919" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u1240.php" crc="3830077255" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="14196154_1230091140346379_1631202357697309711_o.jpg" crc="4157514318" ref="index"/>
+    <file name="14196154_1230091140346379_1631202357697309711_o-u989-fr.jpg" crc="287603642" ref="index"/>
+    <file name="user.png" crc="3781596402" ref="index"/>
+    <file name="portfolio.png" crc="3806203652" ref="index"/>
+    <file name="envelope.png" crc="254145686" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="icon-linkedin.png" crc="320323309" ref="index"/>
+    <file name="employment.png" crc="3975249190" ref="index"/>
+    <file name="education.png" crc="119199825" ref="index"/>
+    <file name="placeholder.jpg" crc="4214613705" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="placeholder-crop-u1321.jpg" crc="239786696" ref="index"/>
+    <file name="placeholder-crop-u1333.jpg" crc="239786696" ref="index"/>
+    <file name="placeholder-crop-u1405.jpg" crc="239786696" ref="index"/>
+    <file name="placeholder-crop-u1381.jpg" crc="239786696" ref="index"/>
+    <file name="placeholder-crop-u1345.jpg" crc="239786696" ref="index"/>
+    <file name="placeholder-crop-u1357.jpg" crc="239786696" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1252-17.png" crc="4166315943" ref="index"/>
+    <file name="u1252-17-r.png" crc="3958458197" ref="index"/>
+    <file name="u1252-17-m.png" crc="3958458197" ref="index"/>
+    <file name="u1252-17-fs.png" crc="229367754" ref="index"/>
+    <file name="envelope2.png" crc="4135008632" ref="index"/>
+  </folder>
+  <file name="index.html" crc="365609308" seo="true" mt="1485884136695" redirect="true"/>
+</manifest>
